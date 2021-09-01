@@ -7,7 +7,7 @@
     background-color: rgb(136, 136, 136);
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
-}
+  }
 
   h1 {
       color:rgb(91, 12, 148);
@@ -17,5 +17,22 @@
   
   nav li {
       display: inline;
-      font-family:'Times New Roman', Times, serif;
+      font-family:'Times New Roman', Times, serif;   
   }
+
+.info-articles {
+    outline: solid;
+
+}
+
+img {
+    float: right;
+}
+
+#bio {
+    float: left;
+}
+
+#id {
+    float: right;
+}
