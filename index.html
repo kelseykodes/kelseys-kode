@@ -2,48 +2,54 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8">
+        <!-- Site title -->
         <title>Kelsey's Kode</title>
         <link rel="stylesheet" href="./assets/css/style.css">
     </head>
   
     <body>
-        <h1>Kelsey's Kode</h1> 
+        <h1>Kelsey's Kode</h1>
+        <!-- Site navigation bar -->
         <nav> 
-            <ol>
-               <li>About Me</li>
-               <li>Projects</li>
-               <li>Connect With Me</li>
+            <ol class="inline-only">
+               <li><a href="#bio">About Me</a></li>
+               <li><a href="#work">Projects</a></li>
+               <li><a href="#connect">Connect With Me</a></li>
             </ol>
         </nav>
 
        <section>
-           <article>
+           <article id="bio">
                 <h3>About Me</h3>
+                <!-- Self Image -->
+                <img src="assets/images/selfphoto.jpg" alt="Kelsey Perkins"/>
                 <p>
                     Hello! My name is Kelsey and I'm an aspiring software engineer. I'm currently located in Atlanta and I graduated from Georgia State University. I enjoy collaborating with other team members to create and develop unique mobile applications as well as interactive web page designs. My journey as a software engineer is just getting started so feel free to visit my page again to see updated projects I create along the way!
 
-                    Fun fact: I studied abroad in three different countries to learn the Spanish language. ¡Pura Vida!
+                    Fun fact: I studied abroad in three different countries to learn the Spanish language. <strong>¡Pura Vida!</strong>
                 </p>
            </article>
 
-           <article>
+           <article id="work">
                <h3>Projects</h3>
                 <p>
                   Listed below are a few of my recent projects. Take a look!
                 </p>
                 <ul>
-                    <li>Code Refactor<a herf=https://kperkins97.github.io/code-refactor></a></li>
+                    <li><a href=https://kperkins97.github.io/code-refactor>Code Refactor</a></li>
+                    <img src="assets/images/coderefactor.jpg"
                 </ul>
            </article>
 
         </section>
 
-       <footer>
+       <footer id="connect">
            <h4>Connect With Me</h4>
             <ul>
-                <li>Github<a herf=https://github.com/kperkins97>My Github</a></li>
-                <li>LinkedIn<a herf=https://www.linkedin.com/in/kelseyperkinsreporter>My LinkedIn</a></li>
-                <li>Email<a href="https://www.yahoo.com">Perkins.Kelsey@yahoo.com</a></li>
+                <li><a href="https://github.com/kperkins97">My Github</a></li>
+                <li><a href="https://www.linkedin.com/in/kelseyperkinsreporter">My Linked</a></li>
+                <li><a href="mailto:perkins.kelsey@yahoo.com">Email Me</a></li>
             </ul>       
        </footer>
     </body>
+</html>    
