@@ -44,9 +44,12 @@ img {
 
 }
 
-h4 {
-    margin: 100px;
+footer h4 {
+  margin: 20px;
+  padding: 100px;
+  text-align: left;
 }
+
 footer li { 
     display: inline;
     padding: 100px;
