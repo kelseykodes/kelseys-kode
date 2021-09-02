@@ -21,24 +21,17 @@
       padding: 10px;
   }
 
-.info-articles {
+  .info-articles {
     outline: solid;
-    margin: 80px;
-    padding: 30px;
+  }
 
-}
-
-img {
+  .info-articles img {
+    max-height: 120px;
+    padding-right: 20px;
     float: left;
-    padding: 30px;
-    margin: auto;
-
+    margin-bottom: 20px
 }
 
-#myimage {
-   margin: auto;
-   padding: 0;
-}
 #bio {
     padding: 30px;
 }
