@@ -17,41 +17,46 @@
   nav li {
       display: inline;
       font-family:'Times New Roman', Times, serif;   
+      border-style: double;
+      padding: 10px;
   }
 
 .info-articles {
     outline: solid;
+    margin: 80px;
+    padding: 30px;
 
 }
 
 img {
-    float: right;
-    padding-left: 30px;
+    float: left;
+    padding: 30px;
+    margin: auto;
+
 }
 
+#myimage {
+   margin: auto;
+   padding: 0;
+}
 #bio {
-    float: left;
-    padding: 25px;
+    padding: 30px;
 }
 
 #work {
-    float: right;
-    padding: 30px;
-    margin: 20px;
+    text-align: left;
 }
 #work a {
     text-decoration: none;
-
 }
 
-footer h4 {
-  margin: 20px;
-  padding: 100px;
-  text-align: left;
-}
-
-footer li { 
+#connect {
+    outline: none;
     display: inline;
-    padding: 100px;
-    font-style: italic;
+}
+
+@media screen and (max-width: 650px) {
+    body {
+        background-color: white;
+    }
 }
