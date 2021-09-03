@@ -5,13 +5,20 @@
     padding: 10px;
     background-color: rgb(136, 136, 136);
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
     margin: 0;
+    line-height: 1.5;
+    color: black;
   }
 
   h1 {
       color:rgb(91, 12, 148);
       text-align: center;
       border-style: dotted;
+  }
+
+  a:hover{
+    color: black;
   }
   
   nav li {
