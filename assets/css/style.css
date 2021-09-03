@@ -18,34 +18,49 @@
       display: inline;
       font-family:'Times New Roman', Times, serif;   
       border-style: double;
-      padding: 10px;
+      padding: 5px;
+      text-align: center;
+
   }
 
   .info-articles {
     outline: solid;
+    min-height: 250px;
+    padding: 30px;
+    margin-top: 30px;
   }
 
   .info-articles img {
     max-height: 120px;
     padding-right: 20px;
     float: left;
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
 
 #bio {
-    padding: 30px;
+   text-align: center;
 }
 
 #work {
     text-align: left;
 }
 #work a {
-    text-decoration: none;
+    text-decoration-line: unset;
 }
 
 #connect {
     outline: none;
-    display: inline;
+    text-align: center;
+
+}
+#connect ul {
+    float: center;
+    text-align: center;
+}
+#connect li, #connect h2 {
+    display: inline-block;
+
+
 }
 
 @media screen and (max-width: 650px) {
