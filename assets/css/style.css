@@ -34,7 +34,7 @@
     max-height: 120px;
     padding-right: 20px;
     float: left;
-    margin-bottom: 20px;
+
 }
 
 #bio {
@@ -55,11 +55,11 @@
 }
 #connect ul {
     float: center;
-    text-align: center;
 }
+
 #connect li, #connect h2 {
     display: inline-block;
-
+    padding: 50px;
 
 }
 
