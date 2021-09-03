@@ -17,10 +17,18 @@
       border-style: dotted;
   }
 
-  a:hover{
-    color: black;
+  a:hover {
+    color: white;
+    background-color:rgb(91, 12, 148);
   }
   
+  .testing {
+      display: inline;
+
+  }
+  nav {
+      display: inline;
+  }
   nav li {
       display: inline;
       font-family:'Times New Roman', Times, serif;   

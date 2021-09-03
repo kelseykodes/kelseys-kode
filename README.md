@@ -27,7 +27,9 @@ Provide a short description explaining the what, why, and how of your project. U
 ## Credits
 Collaborator: Reagin Turner, /* github link */
 
-If you followed tutorials, include links to those here as well.
+Followed tutorials:
+https://www.youtube.com/watch?v=yfoY53QXEnI
+https://www.youtube.com/watch?v=ZYV6dYtz4HA
 ## License
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+The last section of a high-quality README file is the license. 
 ---
