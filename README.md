@@ -17,7 +17,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - Begin by opening up preferred browser.
 
 ## Usage
-- Type in url: 
+- Type in url: https://kperkins97.github.io/kelseys-kode/
 - User will be able to scroll through webpage and read the following articles; About Me, Projects and Connect With Me.
 - User will have the ability to skip to preferred article by clicking desired article in navigation bar.
 - When user selects preferred project, project will be displayed in full opening in browser. 
@@ -25,7 +25,7 @@ Provide a short description explaining the what, why, and how of your project. U
 - When user selects "Linkedin", profession linkedin profile will dispplay in browser.
 
 ## Credits
-Collaborator: Reagin Turner, /* github link */
+Collaborator: Reagin Turner, GitHub.com/reagintaylor
 
 Followed tutorials:
 https://www.youtube.com/watch?v=yfoY53QXEnI
