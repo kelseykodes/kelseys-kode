@@ -20,9 +20,9 @@ Provide a short description explaining the what, why, and how of your project. U
 - Type in url: 
 - User will be able to scroll through webpage and read the following articles; About Me, Projects and Connect With Me.
 - User will have the ability to skip to preferred article by clicking desired article in navigation bar.
-- When user selects preferred project, project will be displayed in full opening in a seperate browser. 
-- When user selects "Github", peronsal github profile will display in separate browser.
-- When user selects "Linkedin", profession linkedin profile will dispplay in separate browser.
+- When user selects preferred project, project will be displayed in full opening in browser. 
+- When user selects "Github", peronsal github profile will display in browser.
+- When user selects "Linkedin", profession linkedin profile will dispplay in browser.
 
 ## Credits
 Collaborator: Reagin Turner, /* github link */
@@ -30,6 +30,10 @@ Collaborator: Reagin Turner, /* github link */
 Followed tutorials:
 https://www.youtube.com/watch?v=yfoY53QXEnI
 https://www.youtube.com/watch?v=ZYV6dYtz4HA
+https://choosealicense.com/licenses/gpl-3.0/
+
 ## License
-The last section of a high-quality README file is the license. 
+ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
 ---
